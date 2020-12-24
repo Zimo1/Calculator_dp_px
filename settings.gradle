@@ -1,0 +1,3 @@
+include ':converterDpPx'
+include ':app'
+rootProject.name = "Calculator dp-px"
